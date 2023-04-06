@@ -1,0 +1,10 @@
+<layout xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:magento:framework:View/Layout/etc/page_layout.xsd">
+ <update handle="2columns-left"/>
+ <referenceContainer name="columns">
+ <container name="div.sidebar.four" htmlTag="div" htmlClass="sidebar sidebar-four"
+after="div.sidebar.additional">
+ <container name="sidebar.four" label="Sidebar Four"/>
+ </container>
+ </referenceContainer>
+</layout>

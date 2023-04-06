@@ -1,0 +1,6 @@
+<page_layouts xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="urn:magento:framework:View/PageLayout/etc/layouts.xsd">
+ <layout id="4columns">
+ <label translate="true">4 Columns</label>
+ </layout>
+</page_layouts>

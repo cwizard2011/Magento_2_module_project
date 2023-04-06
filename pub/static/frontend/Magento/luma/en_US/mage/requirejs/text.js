@@ -1,0 +1,1 @@
+/Applications/MAMP/htdocs/magento2/lib/web/mage/requirejs/text.js

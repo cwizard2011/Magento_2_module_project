@@ -1,0 +1,1 @@
+/Applications/MAMP/htdocs/magento2/lib/web/js-storage/js.storage.js
